@@ -1,2 +1,2 @@
-# LinkedIn Web Scripting
+ this notebook for scriping linkedIn data
  
